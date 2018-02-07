@@ -4,9 +4,4 @@
 
 Для каждой задачи, которую вы расположите на диаграмме, проанализируйте потенциальные риски и выпишите их в отдельном файле `risks.md`, который также расположите в репозитории.
 
-Диаграмма Ганта может быть создана с помощью одного из сервисов: 
-1. Realtimeboard (https://realtimeboard.com/ru/).
-2. draw.io (https://www.draw.io, раздел "Flowcharts").
-3. Teamweek (https://teamweek.com).
-
-Для создания можно использовать и другой сервис, если в нём есть функция экспорта в изображение.
+![](https://raw.githubusercontent.com/ctel-prj-mng/1-gantt-60218-Kunica97/master/Gantt.jpg)
