@@ -5,3 +5,5 @@
 Разработка учебного курса для вуза представлена на диаграмме:
 
 ![Diagram](https://github.com/ctel-prj-mng/1-gantt-60218-Kunica97/blob/master/%D0%93%D0%90%D0%9D%D0%A2.png)
+
+![*РИСКИ*](https://github.com/ctel-prj-mng/1-gantt-60218-Kunica97/blob/master/risks.md)
